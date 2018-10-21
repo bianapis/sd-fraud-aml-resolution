@@ -1,0 +1,16 @@
+{
+  "fraudCaseDeterminationRecordReference" : "FCDRR725464",
+  "customerAgreement" : "Customer Agreement",
+  "fraudCaseReference" : "FCR72634545",
+  "fraudCaseDeterminationRecord" : {},
+  "merchantAgreementReference" : "MAR726464",
+  "fraudCaseType" : "Fraud Type",
+  "merchantAgreement" : "Agreement",
+  "productInstanceReference" : "PIR7364646",
+  "customerReference" : "CR73654646",
+  "fraudCaseResolutionSchedule" : "2018-09-09 12:30:00 EST",
+  "fraudCaseStatus" : "RESOLVED",
+  "customerAgreementReference" : "CAR73654646",
+  "merchantReference" : "MR7364646",
+  "fraudCaseAnalysisRecord" : {}
+}

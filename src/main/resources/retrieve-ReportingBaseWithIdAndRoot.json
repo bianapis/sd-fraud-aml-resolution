@@ -1,0 +1,21 @@
+{
+  "correspondenceReference" : "CR7234545",
+  "customerAgreement" : "customer Agreement",
+  "fraudCaseReference" : "FCR7236464",
+  "fraudCaseResolutionRecord" : {},
+  "fraudCaseDeterminationRecord" : {},
+  "merchantAgreementReference" : "MAR736454",
+  "fraudCaseType" : "stolen/fake device",
+  "merchantAgreement" : "Merchant Agreement",
+  "paymentOrderReference" : "POR736464",
+  "fraudCaseReportingRecord" : {},
+  "productInstanceReference" : "PIR7265464",
+  "customerReference" : "CR7364664",
+  "fraudCaseResolutionSchedule" : "2018-09-09 12:30:00 EST",
+  "fraudCaseStatus" : "RESOLVED",
+  "documentReference" : "DR736464",
+  "customerAgreementReference" : "CAR7236464",
+  "merchantReference" : "MR736464",
+  "fraudCaseAnalysisRecord" : {},
+  "fraudCaseReportingRecordReference" : "FRRR736464"
+}

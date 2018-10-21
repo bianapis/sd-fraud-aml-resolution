@@ -1,0 +1,21 @@
+{
+  "correspondenceReference" : "CR7264646",
+  "customerAgreement" : "Customer Agreement",
+  "fraudCaseReference" : "FCR72634545",
+  "fraudCaseResolutionRecord" : {},
+  "fraudCaseDeterminationRecord" : {},
+  "merchantAgreementReference" : "MAR7264646",
+  "fraudCaseType" : "Fraud Type",
+  "merchantAgreement" : "Agreement",
+  "paymentOrderReference" : "POR726464",
+  "productInstanceReference" : "PIR736466",
+  "employeeBusinessUnitReference" : "EBU7236464",
+  "customerReference" : "CR7364646",
+  "fraudCaseResolutionSchedule" : "2018-09-09 12:30:00 EST",
+  "fraudCaseStatus" : "RESOLVED",
+  "documentReference" : "CR7364646",
+  "customerAgreementReference" : "CAR73654546",
+  "merchantReference" : "MR736464",
+  "fraudCaseAnalysisRecord" : {},
+  "fraudCaseResolutionRecordReference" : "FCRR725464"
+}

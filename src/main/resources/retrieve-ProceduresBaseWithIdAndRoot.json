@@ -1,0 +1,9 @@
+{
+  "productServiceReference" : "PSR726354",
+  "fraudCaseProcedureUpdateRecommendationRecord" : {},
+  "fraudCaseReference" : "FCR7364646",
+  "fraudCaseProcedureUpdateRecommendationReference" : "FCPRR726464",
+  "fraudCaseDeterminationRecord" : {},
+  "fraudCaseType" : "disputed charge",
+  "fraudCaseAnalysisRecord" : {}
+}

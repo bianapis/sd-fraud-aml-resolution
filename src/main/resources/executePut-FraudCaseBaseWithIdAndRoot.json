@@ -1,0 +1,16 @@
+{
+  "dateTime" : "2018-09-05 14:30:30 EDT",
+  "transactionRecord" : {},
+  "fraudCaseReference" : "FCR7264546",
+  "transactionReference" : "TR7376465",
+  "contactReference" : "COR736465",
+  "caseLocation" : "10 Wilson Road, Dallas, TX",
+  "fraudCaseType" : "disputed charge",
+  "fraudCaseRecord" : {},
+  "productInstanceReference" : "PIR766464",
+  "employeeBusinessUnitReference" : "EBU726454",
+  "customerReference" : "CR726454",
+  "fraudCaseResolutionSchedule" : "2018-09-09 12:30:31 CST",
+  "fraudCaseStatus" : "resolved",
+  "merchantReference" : "MR726454"
+}
